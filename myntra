@@ -1,1 +1,5 @@
 JAVA IS AWESOME
+public class Test
+{
+System.out.println("hi");
+}
